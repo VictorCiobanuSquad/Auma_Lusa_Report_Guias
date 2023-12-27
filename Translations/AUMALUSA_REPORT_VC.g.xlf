@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AUMALUSA_REPORT_VC">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 666180515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery notes pending invoicing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - NamedType 109183450" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;1Y-1D&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - NamedType Text31022890</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - NamedType 3766454129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End date cannot be earlier than the start date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - NamedType Text31022891</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - NamedType 3128757512" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - NamedType Text31022892</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - NamedType 2491060895" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1..%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - NamedType Text31022893</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 1212808569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label001</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 575111952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label002</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 4232382631" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label003</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 106324358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label004</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 3763595037" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Excl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label005</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 3125898420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal Excl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label006</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 2488201803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label007</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 1043899546" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Incl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label008</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 406202929" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery notes pending invoicing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label009</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 2642517649" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label010</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - ReportLabel 3280214266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - ReportLabel label011</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 666180515 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PaymentPendingDocuments - Control StartDate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

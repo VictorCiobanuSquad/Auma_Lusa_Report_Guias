@@ -1,0 +1,91 @@
+{
+    "name": "Temp ruleset",
+    "description": "A list of temporary Rules",
+    "rules": [ 
+        {
+            "id": "AA0218",
+            "action": "Hidden",
+            "justification": "Tooltips"
+        },  
+        {
+            "id": "AA0150",
+            "action": "Hidden",
+            "justification": "Parameters unused"
+        },
+        {
+            "id": "AA0137",
+            "action": "Hidden",
+            "justification": "Unused variables"
+        },       
+    {
+        "id": "AS0051",
+        "action": "Hidden",
+        "justification": "The manifest property must be specified and contain a meaningful value. The value of the property might be displayed to users in the AppSource marketplace."
+    },
+    {
+        "id": "AS0084",
+        "action": "Hidden",
+        "justification": "The ID range assigned to the extension must be within the range allowed for AppSource applications."
+    },
+    { 
+        "id": "AA0204",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE:variáveis com mesmo nome de método ou campo no mesmo contexto"
+    },
+    {
+        "id": "AA0215",
+        "action": "Hidden",
+        "justification": "Colocar sufixo - Não é grave"
+    },
+    {
+        "id": "AA0225",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE:Captions nas páginas obrigatórias -"
+    },
+    {
+        "id": "AA0232",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE: Adicionar SIFT nos flowfields - INFO - "
+    },
+    {
+        "id": "AS0092",
+        "action": "Hidden",
+        "justification": "The 'applicationInsightsKey' property must specify the instrumentation key of the Azure Application Insights resource for monitoring operations related to this extension."
+    },
+    {
+        "id": "AA0005",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE (+4391): Only use BEGIN..END to enclose compound statements. - apenas avisa de begin end desnescessários"
+    },   
+    {
+        "id": "AA0217",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE: Use a text constant or label for format string in StrSubstNo. - Para já não é urgente Microsoft tb usa este tipo de artifícios - VER MAIS TARDE"
+    },
+    {
+        "id": "AA0072",
+        "action": "Hidden",
+        "justification": "VERY HARD (+3000): The name is not valid. The name of variables and parameters must be suffixed with the type or object name. - ignorar a não ser que passe a ser impeditivo"
+    },
+    {
+        "id": "AA0074",
+        "action": "Hidden",
+        "justification": "VERY HARD (+2000): Variable must have a suffix from this list: Msg, Tok, Err, Qst, Lbl, Txt - ignorar a não ser que passe a ser impeditivo"
+    },
+    {
+        "id": "AA0470",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE: Placeholders should have a comment explaining their content. - identificar com comentário os %1 e %2"
+    },
+    {
+        "id": "AA0021",
+        "action": "Hidden",
+        "justification": "ALWAYS IGNORE: variable declarations should be ordered by type. - ignorar a não ser que passe a ser impeditivo"
+    },
+    {
+        "id": "AL0282",
+        "action": "Hidden",
+        "justification": "The member referenced by event subscriber 'CheckItemLdgEntries' parameter 'ItemNo' is not found. - ignorar a não ser que passe a ser impeditivo"
+    }    
+]
+}

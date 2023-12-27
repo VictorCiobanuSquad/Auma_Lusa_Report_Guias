@@ -1,0 +1,44 @@
+{
+  "id": "1eb0194b-ba8a-4f4d-a046-b2609dd899f2",
+  "name": "AUMALUSA_REPORT_VC",
+  "publisher": "SQUAD",
+  "version": "1.0.0.8",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "0b0a0933-50d9-4352-8803-7bf91e6c5491",
+      "name": "SOFTSTORE Localization Pack for Portugal",
+      "publisher": "Softstore SA",
+      "version": "22.0.1905.6"
+    },
+    {
+      "id": "2f9675e9-d254-4b60-a615-d43e0a3baa41",
+      "name": "SOFTSTORE Language Pack for Portugal",
+      "publisher": "Softstore SA",
+      "version": "22.0.1905.5"
+    }
+  ],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "target": "Cloud",
+  "runtime": "11.0",
+  "features":["TranslationFile", "GenerateCaptions"]
+}

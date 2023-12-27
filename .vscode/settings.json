@@ -1,0 +1,10 @@
+{
+     "al.backgroundCodeAnalysis": "Project",
+     "al.codeAnalyzers": [
+        "${CodeCop}"
+     ],
+     "AllAutocomplete.showCurrentDocument": true,
+     "al.enableCodeAnalysis":true,
+     "al.enableExternalRulesets": true,
+     "al.ruleSetPath": "./CA.ruleset.json"
+}
