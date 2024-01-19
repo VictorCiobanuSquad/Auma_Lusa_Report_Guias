@@ -3,7 +3,7 @@
     "configurations": [
         // Use Ctrl+Space to trigger IntelliSense and get assistance on the supported configurations for AL development.
 {
-    "name": "Publish: Microsoft cloud sandbox",
+    "name": "Publish: SandBox",
     "type": "al",
     "request": "launch",
     "tenant": "6b19f684-f5c0-4819-931a-9e17d73c41a8",
@@ -20,5 +20,6 @@
     "longRunningSqlStatementsThreshold": 500,
     "numberOfSqlStatements": 10
 }
+
     ]
 }

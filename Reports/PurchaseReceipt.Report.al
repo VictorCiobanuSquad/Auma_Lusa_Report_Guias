@@ -75,7 +75,7 @@ report 50002 "PaymentPendingDocuments"
             var
 
             begin
-                TotalSalesLine.RESET;
+                TotalSalesLine.RESET();
                 TotalSalesLine.SetRange("Document No.", "Sales Header"."No.");
                 TotalSalesLine.SetRange("Document Type", "Sales Header"."Document Type");
                 TotalSalesLine.CalcSums("Line Amount", Amount, "Amount Including VAT", "Inv. Discount Amount");
@@ -103,7 +103,7 @@ report 50002 "PaymentPendingDocuments"
 
                         trigger OnValidate()
                         begin
-                            StartDateOnAfterValidate;
+                            StartDateOnAfterValidate();
                         end;
                     }
                     field(EndDate; EndDate)
